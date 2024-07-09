@@ -5,6 +5,8 @@
 
 <div align="center">
   <h2>:leaves: About me</h2>
+  <p>I'm a Web Development student still quite new to programming, currently doing an internship in a software house</p>
+  <p>:milky_way: I'm always trying to improve myself through learning and helping other people, I'm also a metalhead and always enjoy talking music and philosophy in all its forms</p>
 </div>
 
 <!-- markdownlint-enable MD033  -->

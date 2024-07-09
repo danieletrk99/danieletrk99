@@ -20,6 +20,7 @@
 </div>
 
 <div align="center">
+  <h2>:bar_chart: My Stats</h2>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=github_dark" alt="Stats"/>
 </div>
 

@@ -30,6 +30,7 @@
   <table align="center" width="100%" height="100%" style="border: none;">
     <tr style="border: none;">
       <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieletrk99&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="lang stats"/></td>
+      <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danieletrk99&theme=midnight-purple&hide_border=true" alt="streak"/></td>
     </tr>
   </table>
 </div>

@@ -23,8 +23,8 @@
   <h2>:bar_chart: My Stats</h2>
   <table align="center" width="100%" height="100%">
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=github_dark" alt="Stats"/></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/></td>
+      <td><img style="border: none;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=github_dark" alt="Stats"/></td>
+      <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/></td>
     </tr>
   </table>
 </div>

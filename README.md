@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&pause=1000&color=028A3A&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+Daniele+from+Italy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=4000&pause=800&color=028A3A&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile;I'm+Daniele+from+Italy)](https://git.io/typing-svg)
 
 <!--
 **danieletrk99/danieletrk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

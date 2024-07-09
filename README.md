@@ -22,13 +22,13 @@
 <div align="center">
   <h2>:bar_chart: My Stats</h2>
   <table align="center" width="100%" height="100%" style="border: none;">
-    <tr>
+    <tr style="border: none;">
     <td><img style="border: none;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=midnight_purple" alt="Stats"/></td>
       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=midnight_purple" alt="Danytrk99's GitHub Stats"/></td>
     </tr>
   </table>
-  <table>
-    <tr>
+  <table align="center" width="100%" height="100%" style="border: none;">
+    <tr style="border: none;">
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieletrk99&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="lang stats"/></td>
     </tr>
   </table>

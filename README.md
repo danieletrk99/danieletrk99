@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-    <span><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=github_dark" alt="Stats"/></span><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danieletrk99&theme=github_dark" alt="Stats"/>
 </div>
 
 <!-- markdownlint-enable MD033  -->

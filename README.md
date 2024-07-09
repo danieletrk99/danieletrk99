@@ -20,6 +20,7 @@
 </div>
 
 <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=github_dark" alt="Danytrk99's GitHub Stats"/>
 </div>
 
 <!-- markdownlint-enable MD033  -->

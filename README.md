@@ -1,7 +1,11 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=4000&pause=800&color=028A3A&center=true&vCenter=true&random=true&width=500&lines=Welcome+to+my+GitHub+Profile;Always+striving+to+learn+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=4000&pause=800&color=028A3A&center=true&vCenter=true&random=true&width=500&lines=Welcome+to+my+GitHub+Profile;Always+striving+to+learn+new+things" alt="Typing SVG" />
 </p>
+
+<div align="center">
+  <h2>:leaves: About me</h2>
+</div>
 
 <!-- markdownlint-enable MD033  -->
 <!--

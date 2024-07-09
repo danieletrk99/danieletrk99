@@ -27,5 +27,10 @@
       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieletrk99&theme=midnight_purple" alt="Danytrk99's GitHub Stats"/></td>
     </tr>
   </table>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieletrk99&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="lang stats"/></td>
+    </tr>
+  </table>
 </div>
 <!-- markdownlint-enable MD033  -->

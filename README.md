@@ -9,8 +9,11 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+  <h2>:hash:Programming languages</h2>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp">
 </div>
+
 <!-- markdownlint-enable MD033  -->
 <!--
 **danieletrk99/danieletrk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

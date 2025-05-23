@@ -12,11 +12,12 @@
   <h2>:hash:Programming languages and Frameworks</h2>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"><br>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="DotNet">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJs">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" alt="Angular"><br>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="CSharp">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="DotNet">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" alt="Azure">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="Sql Server">
 </div>
 
 <div align="center">
